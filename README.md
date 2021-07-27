@@ -1,1 +1,3 @@
 # gitSimpli
+
+Testing git commands
